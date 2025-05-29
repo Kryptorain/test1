@@ -1,3 +1,5 @@
+<img src="kryptora.gif" />
+
 # Power BI
 
 # 👋 Hi, I'm Manish
